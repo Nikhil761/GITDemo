@@ -17,6 +17,8 @@ public class Demo {
 		System.out.println("This is GitX change3");
 		System.out.println("This is GitX change4");
 		System.out.println("This is GitX change5");
+		System.out.println("This is GitX change6");
+		System.out.println("This is GitX change7");
 	}
 
 }
